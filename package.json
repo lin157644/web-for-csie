@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lin157644/web-for-csie#readme",
   "dependencies": {
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0-beta2",
     "jquery": "^3.6.0"
   }
 }
